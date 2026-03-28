@@ -18,4 +18,4 @@ jobs:
       - name: Run Tests
         run: |
           # Isso garante que o comando não quebre se não houver testes ainda
-          python medguard.py || echo "Código executado com sucesso!"
+          python medguard.py || echo "Código executado com sucesso!
